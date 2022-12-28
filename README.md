@@ -12,5 +12,8 @@ Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
 
----
+
 _"Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them."_
+
+---
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucsKendi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
