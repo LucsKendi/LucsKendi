@@ -1,6 +1,6 @@
 ## 👋🏻 I'm Lucas Kendi,
 ### and you can call me Kendi.
-I'm a human resources technician, currently aiming to develop programming skills (frontend focus) and build my way into the tech world.
+I'm a human resources technician, currently aiming to develop programming skills (frontend focus) and build my way into the awesome tech world.
 
 🌱 Currently struggling with: procrastination, following my schedule and learning how to learn.
 
