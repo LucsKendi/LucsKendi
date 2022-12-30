@@ -11,6 +11,7 @@ Connect with me:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lucaskendi_/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Artstation Badge](https://img.shields.io/badge/-Artstation-black?style=flat&logo=Artstation&logoColor=blue)](https://www.artstation.com/)
 
 
 _"Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them."_
