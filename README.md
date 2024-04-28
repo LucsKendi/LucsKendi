@@ -16,5 +16,5 @@ Connect with me:
 _"Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them."_
 
 ---
-<img height="150em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=LucsKendi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucsKendi&layout=compact)](https://github.com/LucsKendi/README.md)
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucsKendi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=LucsKendi&layout=compact)](https://github.com/LucsKendi/README.md)
