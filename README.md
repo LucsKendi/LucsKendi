@@ -17,3 +17,4 @@ _"Be not afraid of greatness. Some are born great, some achieve greatness, and o
 
 ---
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucsKendi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
