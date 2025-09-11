@@ -4,8 +4,6 @@ I'm a human resources technician, currently aiming to develop programming skills
 
 🌱I'm learning how to learn.
 
-🧑🏻 Studying Git/GitHub and getting started with JavaScript.
-
 Connect with me:
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/lucaskendi_/)
